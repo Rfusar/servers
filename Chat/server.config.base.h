@@ -1,3 +1,5 @@
+
+
 void route_requests(const char *route, int new_conn, char *buffer){
     char *res;
     if(strcmp(route, "/home")==0){ 
